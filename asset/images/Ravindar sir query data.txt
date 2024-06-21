@@ -1,0 +1,25 @@
+Work Order No : M1902781
+project No : C170199GNND
+
+/var/www/html/ngt/commercialcourttelengana
+
+100010022612019  100010022622019
+
+SELECT * FROM delhi.order_daily where user_id = '74'
+delete FROM delhi.order_daily where user_id = '74'
+
+SELECT * FROM delhi.order_daily_advocate where user_id = '74'
+delete FROM delhi.order_daily_advocate where user_id = '74'
+
+
+1. server directory : 
+/home/www/html/aptel
+
+2. local directory : 
+C:\xampp\htdocs\aptel
+
+commcourtcisdb
+commcourtdb
+
+M1807434
+C181627GNND
